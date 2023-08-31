@@ -1,8 +1,6 @@
 #from NSDT import scriptNSDT as scriptload
 from sys import argv
-from os import path
 from subprocess import call
-from time import sleep
 
 
 commandsuses = []
